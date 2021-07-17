@@ -47,3 +47,7 @@ Use the following configuration in `/boot/config.txt`:
     # configure GPIO4 for IR
     dtoverlay=gpio-ir,gpio_pin=4
 
+    # use external heartbeat-LED
+    dtparam=act_led_trigger=heartbeat
+    dtoverlay=act-led,gpio=17
+
