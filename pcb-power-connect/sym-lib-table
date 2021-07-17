@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pcb-power-connect-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-power-connect-rescue.lib)(options "")(descr ""))
+)
