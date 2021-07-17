@@ -6,6 +6,8 @@ want to feed power to your Pi using GPIO pins 2 and 4 (e.g.
 because the pi is within a housing and there is no space for
 a connection to the usb-power plug of the pi).
 
+![](pcb-power-connect-3D.png)
+
 The pcb supports some additional features
 
   - connect an external high->low signal (e.g. button)
